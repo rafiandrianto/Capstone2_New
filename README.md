@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-Proyek ini merupakan analisis audit forensik data skala besar pada log transaksi internet Telkomsel (`usage_raw` & `user_registration`) dengan total objek audit sebanyak **300.000 sesi**. Fokus utama dari proyek ini adalah **mengidentifikasi celah kebocoran pendapatan (*revenue leakage*) lintas direktorat, mengevaluasi efektivitas subsidi program bundling premium, mendeteksi kerusakan integrasi sistem internal (*systemic bug*), serta memitigasi risiko kepatuhan regulasi**.
+Proyek ini merupakan analisis audit forensik data skala besar pada log transaksi internet Telkomsel dengan total objek audit sebanyak **300.000 sesi**. Fokus utama dari proyek ini adalah **mengidentifikasi celah kebocoran pendapatan (*revenue leakage*) lintas direktorat, mengevaluasi efektivitas subsidi program bundling premium, mendeteksi kerusakan integrasi sistem internal (*systemic bug*), serta memitigasi risiko kepatuhan regulasi**.
 
 Key Objectives:
 
